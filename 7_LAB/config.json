@@ -1,0 +1,9 @@
+{
+    "threats": {
+        "high_temperature": 30.0,
+        "low_temperature": -15.0,
+        "high_wind_speed": 60.0,
+        "high_precipitation": 20.0,
+        "high_uv_index": 8.0
+    }
+}
